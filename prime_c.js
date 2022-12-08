@@ -1,8 +1,10 @@
-uvabdivcabud
-bag=oadncod;
-{}
-8888888748r
-88888888888
-*********
-)0cdsoichndc
-vljsfjdnvhi;ubsev
+function even(n){
+	if(n%2==1){
+		console.log("even");
+	}
+	else{
+		console.log("not even");
+	}
+}
+
+even(5)
