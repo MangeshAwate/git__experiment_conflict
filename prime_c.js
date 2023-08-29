@@ -6,7 +6,7 @@
            }
        }
        if(counter==2){
-           return (number,"is prime");
+           return (number,"prime");
        }else{
            return (number,"not a prime");
        }
